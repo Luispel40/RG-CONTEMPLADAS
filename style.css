@@ -36,6 +36,10 @@ body {
     cursor: pointer;
   }
 
+  footer {
+    color: #000 !important;
+  }
+
   & .menu-items {
     display: flex;
     flex-direction: column;
