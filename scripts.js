@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", async function () {
   });
   
   const urlCSV =
-    "https://docs.google.com/spreadsheets/d/1K_GYEpbxJX31meAfNKJCkJSr7KQapMLjzlemf9CLsMI/export?format=csv&gid=0#gid=0";
+    "https://docs.google.com/spreadsheets/d/1Ux_lNvJcb-Pa5XIPIPqSYDd2py4Vn8e2MxAN5Ylfbig/export?format=csv&gid=0#gid=0";
 
  try {
   let csvText = sessionStorage.getItem("csvText");
